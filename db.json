@@ -1,0 +1,23 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. A",
+      "dept" : "Facility A"
+    },
+     {
+      "name": "Dr. B",
+      "dept" : "Facility B"
+    },
+     {
+      "name": "Dr. C",
+      "dept" : "Facility C"
+    },
+     {
+      "name": "Dr. D",
+      "dept" : "Facility D"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
