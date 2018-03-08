@@ -1,8 +1,10 @@
 # dummyRest
 This repo works with My JSON Server at https://my-json-server.typicode.com/
 
-Access the endpoints like h
+Endpoint definitions in /db.json
 
-ttp://my-json-server.typicode.com/smaira/dummyRest/doctors
+Access the endpoints like 
+
+http://my-json-server.typicode.com/smaira/dummyRest/doctors
 
 
