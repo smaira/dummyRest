@@ -1,18 +1,22 @@
 {
   "doctors": [
     {
+      "id":1,
       "name": "Dr. A",
       "dept" : "Facility A"
     },
      {
+     "id":2,
       "name": "Dr. B",
       "dept" : "Facility B"
     },
      {
+     "id":3,
       "name": "Dr. C",
       "dept" : "Facility C"
     },
      {
+     "id":4,
       "name": "Dr. D",
       "dept" : "Facility D"
     }
