@@ -5,6 +5,7 @@ Endpoint definitions in /db.json
 
 Access the endpoints like 
 
-http://my-json-server.typicode.com/smaira/dummyRest/doctors
+http://my-json-server.typicode.com/smaira/dummyRest/accounts
+http://my-json-server.typicode.com/smaira/dummyRest/tasks
 
 
