@@ -1,24 +1,24 @@
 {
-  "doctors": [
+  "accounts": [
     {
       "id":1,
-      "name": "Dr. A",
-      "dept" : "Facility A"
+      "name": "Account A",
+      "dept" : "Dept A"
     },
      {
      "id":2,
-      "name": "Dr. B",
-      "dept" : "Facility B"
+      "name": "Account B",
+      "dept" : "Dept B"
     },
      {
      "id":3,
-      "name": "Dr. C",
-      "dept" : "Facility C"
+      "name": "Account C",
+      "dept" : "Dept C"
     },
      {
      "id":4,
-      "name": "Dr. D",
-      "dept" : "Facility D"
+      "name": "Account D",
+      "dept" : "Dept D"
     }
   ],
   "profile": {
