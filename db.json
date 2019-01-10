@@ -3,22 +3,44 @@
     {
       "id":1,
       "name": "Account A",
-      "dept" : "Dept A"
+      "compName" : "Dept A"
     },
      {
      "id":2,
       "name": "Account B",
-      "dept" : "Dept B"
+      "compName" : "Dept B"
     },
      {
      "id":3,
       "name": "Account C",
-      "dept" : "Dept C"
+      "compName" : "Dept C"
     },
      {
      "id":4,
       "name": "Account D",
-      "dept" : "Dept D"
+      "compName" : "Dept D"
+    }
+  ],
+   "tasks": [
+    {
+      "taskId":1,
+      "taskTitle": "Task Title 1",
+      "taskAction" : "Action 1"
+    },
+     {
+     "taskId":2,
+      "taskTitle": "Task Title 2",
+      "taskAction" : "Action 2"
+    },
+     {
+     "taskId":3,
+      "taskTitle": "Task Title 3",
+      "taskAction" : "Action 3"
+    },
+     {
+     "taskId":4,
+      "taskTitle": "Task Title 4",
+      "taskAction" : "Action 4"
     }
   ],
   "profile": {
